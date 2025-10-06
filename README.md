@@ -10,7 +10,6 @@ A cutting-edge AI-powered chatbot with 3D avatar integration and voice synthesis
 - 💾 **Database Storage** - Supabase backend
 - 🔐 **Authentication** - Email/Password + Google OAuth
 - 🌟 **Neon UI** - Futuristic cyberpunk design
-- 📱 **Responsive** - Works on all devices
 - 🔄 **Cross-Device Sync** - Your data everywhere
 
 ## 🛠️ Tech Stack
